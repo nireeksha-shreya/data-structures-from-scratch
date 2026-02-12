@@ -15,3 +15,10 @@ The goal of this project is to build strong core CS concepts and maintain consis
 ## Day 2: Linked Lists & Trees
 - Singly Linked List implementation
 - Binary Tree traversals (Inorder, Preorder, Postorder)
+
+---
+
+## Day 3: Stack & Queue Applications
+- Parenthesis checking using stack
+- Infix to Postfix conversion
+- Postfix expression evaluation
