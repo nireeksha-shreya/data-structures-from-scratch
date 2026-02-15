@@ -22,3 +22,25 @@ The goal of this project is to build strong core CS concepts and maintain consis
 - Parenthesis checking using stack
 - Infix to Postfix conversion
 - Postfix expression evaluation
+
+---
+
+## Day 4: Sorting & Searching
+- Bubble Sort
+- Merge Sort
+- Binary Search
+- Time complexity understanding (O(n²), O(n log n), O(log n))
+
+---
+
+## Day 5: Recursion & Backtracking
+- Factorial using recursion
+- Fibonacci using recursion
+- N-Queens problem (Backtracking)
+
+---
+
+## Day 6: Graph Algorithms
+- Graph representation using adjacency list
+- Breadth First Search (BFS)
+- Depth First Search (DFS)
